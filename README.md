@@ -1,22 +1,22 @@
 # Contact-Manager
 
-This Project is developed in C Language.
+This project is developed in the C programming language.
 
-**Contact Manage.c** is the file which contains C program of Contact Manager.
+**Contact_Manager.c** contains the C program for the Contact Manager.
 
-**To Run this project please follow the mentioned steps.**
+## How to Run the Project
 
-**Step 1:** Open the Contact Manager.c file.
+Follow these steps to run the project:
 
-**Step 2:** Compile the Code.
+1. Open the `Contact_Manager.c` file.
+2. Compile the code.
+3. Run the code.
+4. The output screen will appear.
+5. Read all the instructions displayed on the output screen and follow the given steps.
 
-**Step 3:** Run the Code.
+Feel free to explore and manage your contacts efficiently!
 
-**Step 4:** Now the Output Screen appears.
-
-**Step 5:** Read all the Instructions displays on Output Screen and follow the given steps.
-
-**Output:**
+## Output Screenshots
 
 ![image](https://user-images.githubusercontent.com/51476119/116252279-0b7e8380-a78d-11eb-8808-2ee024b20feb.png)
 
